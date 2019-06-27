@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css?family=Rock+Salt&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Francois+One&display=swap");
+
+.main-header {
+  background-image: url("./img/sedona-big3.JPG");
+  background-size: cover;
+  margin-top: -65px;
+  margin-bottom: 0px !important;
+}
+
+.jeep {
+  background-image: url("./img/sedona-red.jpg");
+  background-size: cover;
+  margin-bottom: 0px !important;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.sedona-text {
+  font-family: "Rock Salt", cursive;
+  color: white;
+  margin-top: 100px;
+  font-size: 4em;
+}
+
+.plan {
+  border: 1px solid white;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+
+.plan a {
+  color: white !important;
+}
+
+.plan:hover {
+  background-color: black;
+  transition: background 0.5s ease-in-out;
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.front-btn {
+  margin-bottom: 150px;
+}
+
+.front-btn-text {
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  background-color: orange;
+  margin-top: 50px;
+}
+
+.front-btn-text:hover {
+  background-color: #ffbd42;
+  color: white !important;
+}
+
+.activities {
+  padding: 10px 0;
+  background-color: grey;
+}
+
+.icons {
+  color: grey;
+  font-size: 3em;
+  margin-bottom: 5px;
+}
+
+.card:hover {
+  background: #4f5a87;
+  transition: background 0.5s ease-in-out;
+  color: white;
+  cursor: pointer;
+}
+
+.weather-box {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.forecast {
+  font-size: 2em;
+  font-family: "Rock Salt", cursive;
+  padding: 20px 0;
+}
+
+.to-do {
+  background-image: url("./img/top.jpg");
+  background-size: cover;
+}
+
+.btm-links:hover {
+  background: #4f5a87;
+  transition: background 0.5s ease-in-out;
+  color: white;
+  cursor: pointer;
+}
+
+.btm-links {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.bold-text {
+  font-family: "Francois One", sans-serif;
+  font-size: 3em;
+  padding: 20px 0;
+}
+
+.sm-links {
+  background: #4f5a87;
+  padding: 20px 10px;
+  color: white;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  border-radius: 5px;
+}
+
+.sm-links:hover {
+  background-color: #2e3759;
+  transition: background 0.3s ease-in-out;
+}
+
+.footer {
+  padding: 20px 10px;
+}
+
+.navbar-toggler-icon {
+  background-image: url("./img/bars-solid.svg") !important;
+  border: 1px solid black;
+}
