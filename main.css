@@ -3,14 +3,14 @@
 @import url("https://fonts.googleapis.com/css?family=Francois+One&display=swap");
 
 .main-header {
-  background-image: url("./img/sedona-big3.JPG");
+  background-image: url("http://stevenbeyerjr.com/img/sedona-big3.JPG");
   background-size: cover;
   margin-top: -65px;
   margin-bottom: 0px !important;
 }
 
 .jeep {
-  background-image: url("./img/sedona-red.jpg");
+  background-image: url("http://stevenbeyerjr.com/img/sedona-red.jpg");
   background-size: cover;
   margin-bottom: 0px !important;
 }
@@ -95,7 +95,7 @@ a:hover {
 }
 
 .to-do {
-  background-image: url("./img/top.jpg");
+  background-image: url("http://stevenbeyerjr.com/img/top.jpg");
   background-size: cover;
 }
 
@@ -136,7 +136,7 @@ a:hover {
 }
 
 .navbar-toggler-icon {
-  background-image: url("./img/bars-solid.svg") !important;
+  background-image: url("http://stevenbeyerjr.com/img/bars-solid.svg") !important;
   border: 1px solid black;
 }
 
